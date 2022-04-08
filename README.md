@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dauroajr, and I'm new to programming and coding
+- 👋 Hi, I’m @Dauroajr, and I'm new to programming and coding.
 
-- 🌱 I’m currently learning Python, MySQL, Git and GitHub
+- 🌱 I’m currently learning Python, MySQL, HTML5, CSS3, Javascript, Git and GitHub. Yes, I know it's a lot, but I strive to be a fast learner...
 
 - 📫 How to reach me: dauroajr.coding@gmail.com
 
